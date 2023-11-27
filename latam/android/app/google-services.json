@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987103387580",
+    "project_id": "dadoslatam-482ae",
+    "storage_bucket": "dadoslatam-482ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987103387580:android:5cd2d1dd1514bad8b715b9",
+        "android_client_info": {
+          "package_name": "dadosLatam.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZf59NMj1KqigY2-sd_cuWpyXD2Gs9lVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
